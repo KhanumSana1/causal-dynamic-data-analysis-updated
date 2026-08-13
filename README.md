@@ -71,20 +71,12 @@ Install with:
 pip install numpy pandas matplotlib statsmodels openpyxl
 ```
 
-## Usage
-
-Open any notebook with Jupyter, for example:
-
-````bash
-jupyter notebook
-```
-
-Then navigate to the desired notebook under `Synthetic Data/Bidirectional/`, `Synthetic Data/Unidirectional/`, or `Real World Dataset/`.
 
 ## Notes
 
 - Some notebook files are large as they contain embedded plot outputs.
-- `.xlsx` files under `Synthetic Data/` contain correlation results and generated synthetic datasets used across trials.
+- `.xlsx` files under `Synthetic Dataset/` and `Real world Dataset/` contain the relevant python notebooks
+.
 
 ## License
 
