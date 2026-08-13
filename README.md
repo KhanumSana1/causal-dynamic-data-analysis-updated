@@ -73,11 +73,13 @@ pip install numpy pandas matplotlib statsmodels openpyxl
 
 ## Usage
 
-Open any notebook with Jupyter:
+Open any notebook with Jupyter, for example:
 
-```bash
-jupyter notebook "Synthetic Data/Non-stationary_causal_bidirectional_data_nonlinear_trials_2_11_new.ipynb"
+````bash
+jupyter notebook
 ```
+
+Then navigate to the desired notebook under `Synthetic Data/Bidirectional/`, `Synthetic Data/Unidirectional/`, or `Real World Dataset/`.
 
 ## Notes
 
